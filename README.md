@@ -3,7 +3,7 @@
 ## I'm a Programmer, and Programming Language Developer
 
 - ✨ I'm currently working on a programming language called [MIK][mik_website]
-- ✍️ I'm currently learning C and Java
+- ✍️ I'm currently learning C, Java, and Haskell
 - ☕️ My Goal: Collaborate with others and improve my skills
 
 ### Contact me:
