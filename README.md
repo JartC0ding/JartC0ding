@@ -21,6 +21,8 @@
 - MIK
 - Html
 - Css
+- Haskell
+- Java
 
 [website]: https://github.com/JartC0ding
 [mik_website]: https://mikpl.gq
