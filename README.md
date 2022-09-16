@@ -17,7 +17,6 @@
 - VsCode
 - Python
 - Go
-- C
 - MIK
 - Html
 - Css
