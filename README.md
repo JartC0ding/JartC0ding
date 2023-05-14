@@ -24,6 +24,6 @@
 - Haskell
 - Java
 
-[website]: https://github.com/JartC0ding
+[website]: https://moritz-schittenhelm.me
 [mik_website]: https://mikpl.gq
 [youtube]: https://
