@@ -4,7 +4,7 @@
 
 - ✨ I'm currently working on a programming language called [MIK][mik_website]
 - ✍️ I'm currently learning C, Java, and Haskell
-- ☕️ My Goal: Collaborate with others and improve my skills
+- ☕️ My Goal: Learn more about computer science, math, etc...
 
 ### Contact me:
 
