@@ -18,9 +18,8 @@
 - Python
 - Go
 - C
+- C++
 - MIK
-- Html
-- Css
 - Haskell
 - Java
 
