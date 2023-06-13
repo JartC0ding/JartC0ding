@@ -3,7 +3,7 @@
 ## I'm a Programmer, and Programming Language Developer
 
 - ✨ I'm currently working on a programming language called [MIK][mik_website]
-- ✍️ I'm currently learning C, Java, and Haskell
+- ✍️ I'm currently learning C, C++, Java, Haskell, and Computer Science
 - ☕️ My Goal: Learn more about computer science, math, etc...
 
 ### Contact me:
@@ -22,7 +22,7 @@
 - MIK
 - Haskell
 - Java
+- LaTeX
 
 [website]: https://moritz-schittenhelm.me
-[mik_website]: https://mikpl.gq
-[youtube]: https://
+[mik_website]: https://github.com/MikOS-ProgrammingLanguage
